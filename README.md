@@ -15,4 +15,4 @@ Download the dataset from the provided link and save the images to a folder name
 
 Create another foler in the same directory named 'output_images' to store the generated images
 
-Run the code
+Run the script
